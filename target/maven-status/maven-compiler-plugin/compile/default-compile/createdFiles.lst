@@ -1,0 +1,10 @@
+com/luxoft/interview/ubs/sudoku/Board.class
+com/luxoft/interview/ubs/sudoku/Unit.class
+com/luxoft/interview/ubs/sudoku/Quadrant.class
+com/luxoft/interview/ubs/sudoku/Validator.class
+com/luxoft/interview/ubs/sudoku/Main.class
+com/luxoft/interview/ubs/sudoku/Column.class
+com/luxoft/interview/ubs/sudoku/Content.class
+com/luxoft/interview/ubs/sudoku/ValidationResult$Code.class
+com/luxoft/interview/ubs/sudoku/Row.class
+com/luxoft/interview/ubs/sudoku/ValidationResult.class
